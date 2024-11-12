@@ -1,0 +1,12 @@
+ipykernel #if the environment is new 
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+scikit-learn
+imblearn
+tqdm
+nbqa
+black
+isort
